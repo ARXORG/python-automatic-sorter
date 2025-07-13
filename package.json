@@ -1,0 +1,13 @@
+{
+  "name": "file-sorter",
+  "version": "1.0.0",
+  "description": "Automatic file sorter application",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py",
+    "build": "echo No build process defined for this Python project."
+  },
+  "keywords": ["file", "sorter", "organizer", "python"],
+  "author": "",
+  "license": "MIT"
+}
